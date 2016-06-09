@@ -1,5 +1,6 @@
 # mutation-observer-behavior
 
+[![Build Status](https://travis-ci.org/vguillou/mutation-observer-behavior.svg?branch=master)](https://travis-ci.org/vguillou/mutation-observer-behavior)
 [![GitHub version](https://badge.fury.io/gh/vguillou%2Fmutation-observer-behavior.svg)](https://badge.fury.io/gh/vguillou%2Fmutation-observer-behavior)
 
 _Helper Polymer behavior exposing a private API for observing mutations in the element's light DOM._
